@@ -35,6 +35,7 @@ function Footer() {
                 <FaYahoo />
               </a>
             </li>
+            
             //<li className="social-icons">
             //  <a
             //    href="https://www.instagram.com/a.u.senol"
