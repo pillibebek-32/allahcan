@@ -35,7 +35,11 @@ function Footer() {
                 <FaYahoo />
               </a>
             </li>
-            
+          </Col>
+      </Row>
+    </Container>
+  );
+} 
             //<li className="social-icons">
             //  <a
             //    href="https://www.instagram.com/a.u.senol"
@@ -47,10 +51,6 @@ function Footer() {
              // </a>
             //</li>
          // </ul>
-        </Col>
-      </Row>
-    </Container>
-  );
-}
+
 
 export default Footer;
