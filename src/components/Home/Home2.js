@@ -31,7 +31,7 @@ function Home2() {
               My fields of interest are building new&nbsp;
               <i>
                 <b className="purple">Technologies and Products </b> and
-                also in areas related to{" "}
+                also any new technology related to{" "}
                 <b className="purple">
                   Artificial Intelligence.
                 </b>
