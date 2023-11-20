@@ -35,6 +35,7 @@ function Footer() {
                 <FaYahoo />
               </a>
             </li>
+                  </ul>
           </Col>
       </Row>
     </Container>
